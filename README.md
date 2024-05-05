@@ -53,7 +53,8 @@ e.g coursera-dl.conf file
 --cauth <copy cauth string from the browser  coursera login session >
 ```
 
-download course   https://www.coursera.org/learn/uol-machine-learning-for-all/home/welcome
+to download course   https://www.coursera.org/learn/uol-machine-learning-for-all/home/welcome
+NOTE: you must registred and enrolled for above course
 
 ```
 cd /my-courses
