@@ -7,11 +7,25 @@ coursera-dl fixed error : coursera.cookies.AuthenticationFailed: Cannot login on
 
 clone this repo
 
+```
+git clone git@github.com:aaerrolla/my-coursera-dl.git
+```
+
 
 
 ```
 cd my-coursera-dl
+```
 
+inside my-corsers-dl  , clone  fixed corsera-dl  repo
+
+```
+git clone git@github.com:aaerrolla/coursera-dl.git
+```
+
+then build the docker image 
+
+```
 docker build -t courseradl:v1 .
 ```
 
